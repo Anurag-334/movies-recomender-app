@@ -1,0 +1,12 @@
+# Ignore virtual environments
+.venv/
+venv/
+ENV/
+
+# Ignore local secrets
+.streamlit/secrets.toml
+
+# Ignore heavy ML model files
+*.pkl
+*.joblib
+*.h5
