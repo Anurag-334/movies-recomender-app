@@ -2,6 +2,8 @@
 
 A sleek, content-based movie recommendation system built using **Natural Language Processing (NLP)** and **Machine Learning**. The project features a data processing pipeline that merges movie metadata, extracts key features, uses a Bag-of-Words text vectorization approach, and calculates geometric distances to recommend contextually similar films.
 
+Used TMDB 5000 dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
 A fully working version is wrapped in a highly responsive, cinematic custom-themed **Streamlit** user interface featuring live dynamic poster streaming via the **TMDB API**.
 
 ---
